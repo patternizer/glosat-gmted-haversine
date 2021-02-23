@@ -1,4 +1,4 @@
-![image](https://github.com/patternizer/rbeast-frontend/blob/master/glosat-gmted-haversine.png)
+![image](https://github.com/patternizer/glosat-gmted-haversine/blob/master/gmted2010_15n015_00625deg-hi-res.png)
 
 # glosat-gmted-haversine
 
